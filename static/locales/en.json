@@ -1,0 +1,85 @@
+{
+    "inputLabel": {
+        "selectDate": "Select date",
+        "typeOfPT": "Type of Public Transport",
+        "route": "Route",
+        "boarding": "From",
+        "alighting": "To",
+        "fare": "Fare",
+        "submit": "Submit",
+        "saveRoute": "Save as most used route"
+    },
+    "settingTabs": {
+        "savedRoutes": "Saved Routes",
+        "setting": "Setting",
+        "profile": "Profile"
+    },
+    "settings":{
+        "language": "Language",
+        "logout_label": "Logout System"
+    },
+    "save": "Save",
+    "languages": {
+        "en": "English",
+        "zh-hans": "Chinese(simplified)",
+        "zh-hant": "Chinese(traditional)"
+    },
+    "display": {
+        "view" : "View by",
+        "calendar": "calendar",
+        "table": "table",
+        "filter": "Filter By",
+        "option": "Option",
+        "typeOfPT": "Type of Public Transport",
+        "month": "Month",
+        "status": "Status",
+        "date": "Date",
+        "route": "Route Name",
+        "fare": "Fare"
+    },
+    "nav":{
+        "signUp": "Sign Up",
+        "login": "Login",
+        "logout": "Logout",
+        "records": "Home", 
+        "newRecords": "Create New Record",
+        "savedRecords": "Saved Routes",
+        "profile": "Profile"
+    },
+    "to": " to ",
+    "editMenu": {
+        "edit": "edit",
+        "delete": "delete"
+    },
+    "typeOfPT": {
+        "bus": "Bus",
+        "minibus": "Minibus",
+        "mtr_lines": "MTR",
+        "light_rail": "Light Rail",
+        "airport_express": "Airport Express",
+        "ferry": "Ferry",
+        "tram": "Tram"
+    },
+    "message":{
+        "no_saved_routes": "No Save Routes"
+    },
+    "profile":{
+        "name": "Name: ",
+        "phone": "Phone: ",
+        "department": "Department: "
+    },
+    "header": "Travel Expense Claim",
+    "tour":{
+        "steps":{
+            "step_1": "Click this button to add record",
+            "step_2": "Click any date to see the details",
+            "step_3": "Change to table view"
+        },
+        "buttons":{
+            "next": "Next",
+            "skip": "Skip",
+            "stop": "Close"
+        }
+    },
+    "submitted-msg": "Your record is submitted"
+}

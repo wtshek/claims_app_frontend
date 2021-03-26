@@ -1,0 +1,22 @@
+$primary: #ffbc57;
+$primary-light: findLightColor($primary);
+$primary-dark: findDarkColor($primary);
+$primary-invert: #ffffff;
+
+$button-background-color: $primary;
+
+$link: #167df0;
+
+$secondary: #ffffff;
+
+// layout variable
+$mobile-page-margin: 6vw;
+$box-max-width: 70vw;
+
+// other variable
+$shortcutBtBottom: min(50px, 8vw);
+$shortcutBtRight: 6vw; // for button navigating submission and create
+$tourBtBottom: min(80px, 10vw);
+
+// screen define
+$desktop: 1024px;

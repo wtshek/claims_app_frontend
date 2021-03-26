@@ -1,0 +1,85 @@
+{
+    "inputLabel": {
+        "selectDate": "選擇日期",
+        "typeOfPT": "交通方式",
+        "route": "路線",
+        "boarding": "起點",
+        "alighting": "終點",
+        "fare": "車費",
+        "submit": "提交",
+        "saveRoute": "儲存為常用路線"
+    },
+    "settingTabs": {
+        "savedRoutes": "常用路線",
+        "setting": "設定",
+        "profile": "個人資料"
+    },
+    "settings":{
+        "language": "語言",
+        "logout_label": "登出系統"
+    },
+    "save": "儲存",
+    "languages": {
+        "en": "英語",
+        "zh-hans": "中文(简体)",
+        "zh-hant": "中文(繁體)"
+    },
+    "display": {
+        "view" : "模式",
+        "calendar": "月曆",
+        "table": "列表",
+        "filter": "篩選條件",
+        "option": "選項",
+        "typeOfPT": "交通方式",
+        "month": "月份",
+        "status": "狀態",
+        "date": "日期",
+        "route": "路線",
+        "fare": "車費"
+    },
+    "nav":{
+        "signUp": "註冊",
+        "login": "登入",
+        "logout": "登出",
+        "records": "主頁",
+        "newRecords": "創建新紀錄",
+        "savedRecords": "常用路線",
+        "profile": "個人資料"
+    },
+    "to": " 往 ",
+    "editMenu": {
+        "edit": "修改",
+        "delete": "刪除"
+    },
+    "typeOfPT": {
+        "bus": "巴士",
+        "minibus": "小巴",
+        "mtr_lines": "港鐵",
+        "light_rail": "輕鐵",
+        "airport_express": "機場快線",
+        "ferry": "渡輪",
+        "tram": "電車"
+    },
+    "message":{
+        "no_saved_routes": "沒有已儲存路徑"
+    },
+    "profile":{
+        "name": "名稱: ",
+        "phone": "電話: ",
+        "department": "部門: "
+    },
+    "header": "車費紀錄及報銷",
+    "tour":{
+        "steps":{
+            "step_1": "按此新增紀錄",
+            "step_2": "按日期查看詳情",
+            "step_3": "轉換顯示模式"
+        },
+        "buttons":{
+            "next": "下一步",
+            "skip": "關閉",
+            "stop": "完成"
+        }
+    },
+    "submitted-msg": "紀錄已儲存"
+}

@@ -1,0 +1,85 @@
+{
+    "inputLabel": {
+    "selectDate": "选择日期",
+    "typeOfPT": "交通方式",
+    "route": "路线",
+    "boarding": "起点",
+    "alighting": "终点",
+    "fare": "车费",
+    "submit": "提交",
+    "saveRoute": "储存为常用路线"
+    },
+    "settingTabs": {
+        "savedRoutes": "常用路线",
+        "setting": "设定",
+        "profile": "个人资料"
+    },
+    "settings":{
+        "language": "语言",
+        "logout_label": "登出系统"
+    },
+    "save": "储存",
+    "languages": {
+        "en": "英语",
+        "zh-hans": "中文(简体)",
+        "zh-hant": "中文(繁体)"
+    },
+    "display": {
+        "view" : "模式",
+        "calendar": "月历",
+        "table": "列表",
+        "filter": "筛选条件",
+        "option": "选项選項",
+        "typeOfPT": "交通方式",
+        "month": "月份",
+        "status": "状态",
+        "date": "日期",
+        "route": "路线",
+        "fare": "车费"
+    },
+    "nav":{
+        "signUp": "注册",
+        "login": "登入",
+        "logout": "登出",
+        "records": "主页",
+        "newRecords": "创建新紀录",
+        "savedRecords": "常用路线",
+        "profile": "个人资料"
+    },
+    "to": " 往 ",
+    "editMenu": {
+        "edit": "修改",
+        "delete": "删除"
+    },
+    "typeOfPT": {
+        "bus": "巴士",
+        "minibus": "小巴",
+        "mtr_lines": "港铁",
+        "light_rail": "轻铁",
+        "airport_express": "机场快线",
+        "ferry": "渡轮",
+        "tram": "电车"
+    },
+    "message":{
+        "no_saved_routes": "没有已储存路径"
+    },
+    "profile":{
+        "name": "名称: ",
+        "phone": "电话: ",
+        "department": "部门: "
+    },
+    "header": "车费紀录及报销",
+    "tour":{
+        "steps":{
+            "step_1": "按此新增纪录",
+            "step_2": "按日期查看详情",
+            "step_3": "转换显示模式"
+        },
+        "buttons":{
+            "next": "下一步",
+            "skip": "关闭",
+            "stop": "完成"
+        }
+    },
+    "submitted-msg": "紀录已储存"
+}
